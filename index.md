@@ -1,22 +1,25 @@
-## Welcome to gis3dts GitHub Pages
+## GIS3DTS GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gis3dts/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see my [body of work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstylecaster.com%2Fbeauty%2Fjessica-alba-health%2F&psig=AOvVaw2nzm7eEJVvvb1huKMtbEF-&ust=1614284836558000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDF7vCtg-8CFQAAAAAdAAAAABAD) and preview the content of my websites in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whatever your passion, the right code will get you there faster. Whatever your interests, you can explore them in new ways here.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Graduated from Chubb TopGun programming school in 1996. Worked as a code maintainer and software deveoper in the insurance, pharmacetical, financial and retail industries.
 
 ```markdown
-Syntax highlighted code block
+Languages, I've known a few.
 
-# Header 1
-## Header 2
-### Header 3
+# Python
+## Javascript
+### SQL
+#### Visual Basic
+##### Cobol
 
-- Bulleted
-- List
+- Spec Writing
+- Tech Writing
+- [Feck Writing](https://www.youtube.com/watch?v=jdkN57xvekI) 
 
 1. Numbered
 2. List
@@ -30,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gis3dts/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gis3dts/github-pages-with-jekyll/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
