@@ -1,4 +1,4 @@
 this is a template for a git resume. 
 https://github.com/jglovier/resume-template#readme
 
-so sad that I'm not doing it the right way
+
