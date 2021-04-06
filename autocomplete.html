@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Autcomplete-lhc example for Medical Conditions</title>
+    <link href='https://clinicaltables.nlm.nih.gov/autocomplete-lhc-versions/17.0.3/autocomplete-lhc.min.css' rel="stylesheet">
+  </head>
+
+  <body>
+    Medical condition: <input type="text" id="condition" placeholder="Condition">
+    <p>
+    ICD-9 Code:  <input type="text" id="icd9_code" placeholder="ICD-9 Code">
+    <p>
+    <p>This <a href="http://lhncbc.github.io/autocomplete-lhc/" target=_blank
+     >autocomplete-lhc</a> example uses the <a
+     href="https://clinicaltables.nlm.nih.gov/apidoc/conditions/v3/doc.html"
+     target=_blank>Medical conditions API</a> of the <a
+     href="https://clinicaltables.nlm.nih.gov" target=_blank
+     >Clinical Table Search Service</a>.</p>
+  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> <!-- example CDN-- you may choose another source --> 
+    <script src='https://clinicaltables.nlm.nih.gov/autocomplete-lhc-versions/17.0.3/autocomplete-lhc.min.js'></script>
+    <script>
+      new Def.Autocompleter.Search('condition',
+        'https://clinicaltables.nlm.nih.gov/api/conditions/v3/search?ef=term_icd9_code');
+      Def.Autocompleter.Event.observeListSelections('condition', function() {
+        var conditionField = $('#condition')[0];
+        var autocomp = condition.autocomp;
+        var itemData = autocomp.getSelectedItemData();
+        $('#icd9_code')[0].value = itemData && itemData[0].data ?
+          itemData[0].data.term_icd9_code  : '';
+      });
+    </script>
+  </body>
+
+</html>
