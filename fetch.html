@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 6px;
+  font-size: 12px;
+}
+    
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 6px;
+  font-size: 8px;
+}
+    
+    
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>    
+<body>
+    
+     https://developers.google.com/web/updates/2015/03/introduction-to-fetch   
+    https://stackoverflow.com/questions/8430336/get-keys-of-json-object-in-javascript
+<p id="demo">Fetch a file to change this text.</p>
+<script>
+
+fetch('https://data.cms.gov/beta/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data')
+  .then(
+    function(response) {
+      if (response.status !== 200) {
+        console.log('Looks like there was a problem. Status Code: ' +
+          response.status);
+        return;
+      }
+
+      console.log(response.headers.get('Content-Type'));
+      console.log(response.headers.get('Date'));
+
+      console.log(response.status);
+      console.log(response.statusText);
+      console.log(response.type);
+      console.log(response.url);
+        
+      // Examine the text in the response
+      response.json().then(function(jsonData) {
+      var idx = 0;
+      var txt = '';
+      var td = '';
+      var th ='';   
+      // VALUABLE METADATA
+      console.log(Object.keys(jsonData[0]));
+       // row   
+      for(var i in jsonData){
+         var key = i;
+         var val = jsonData[i];
+         // field in row
+        for(var j in val){
+            var sub_key = j;
+            var sub_val = val[j];
+           
+            
+            if (idx == 0){
+                th += "<th>" + sub_key + "</th>";      
+            } 
+           
+            td += "<td>" + sub_val + "</td>"; 
+            
+        } // end inner for loop
+          
+       // if first row, add headers   
+       if (idx == 0){ txt +=  "<table><tr>" + th + "</tr>";   }   
+           // too many row break page. limit 100
+       if (idx < 100) {
+               txt  +=  "<tr>" + td + "</tr>";  
+               td = '';
+            } else {
+                txt += "</table>"
+                document.getElementById("demo").innerHTML += txt;
+                break;
+            }
+          
+          
+      idx += 1;    
+     } // end outer for loop
+          
+        
+      });
+    }
+  )
+  .catch(function(err) {
+    console.log('Fetch Error :-S', err);
+  });
+</script>
+</body>
+</html>
