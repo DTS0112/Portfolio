@@ -44,7 +44,7 @@ May 2014 - January 2015
 
 February 2003 - May 2014
 
-- Wrote successful grants to NJ Council on the Arts for $133,000 
+- Wrote successful grants to NJ Council on the Arts for \$133,000 
 
 ## Independent Consultant, NY NY - Legal Videographer
 
@@ -61,9 +61,7 @@ Oct 2000 - January 2002
 - Technical team lead for department of seven content developers
 - ASP, SQL, JavaScript, HTML
 
-##
-
-## Etensity, NY NY _- Software Developer
+## Etensity, NY NY - Software Developer
 
 November 1999 - September 2000
 

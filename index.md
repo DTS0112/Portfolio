@@ -61,9 +61,7 @@ Oct 2000 - January 2002
 - Technical team lead for department of seven content developers
 - ASP, SQL, JavaScript, HTML
 
-##
-
-## Etensity, NY NY _- Software Developer
+## Etensity, NY NY - Software Developer
 
 November 1999 - September 2000
 
