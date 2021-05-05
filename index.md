@@ -12,7 +12,7 @@ gis3dts@gmail.com
 
 # SKILLS
 
-- Python, Pandas, Javascript, SQL, GIS, Web Development, MS Office, cloud computing, Google Drive, AWS, One Drive
+- Python, Pandas, Javascript, SQL, GIS, Web Development, MS Office, Cloud Computing, Google Drive, AWS, One Drive
 - Design and deploy software solutions based on business specifications
 - Analyze and implement business solutions using industry standards
 - Assess business processes and optimize workflow using current technology
@@ -40,11 +40,11 @@ May 2014 - January 2015
 - Liaised between community and library staff
 - Implemented department policy and standards
 
-## Jersey City Free Public Library, Jersey City NJ - Consultant / Volunteer_
+## Jersey City Free Public Library, Jersey City NJ - Consultant / Volunteer
 
 February 2003 - May 2014
 
-- Wrote successful grants to NJ Council on the Arts for $133,000
+- Wrote successful grants to NJ Council on the Arts for \$133,000 
 
 ## Independent Consultant, NY NY - Legal Videographer
 
@@ -95,7 +95,7 @@ March 1996 - March 1997
 
 # **EDUCATION**
 
-## Visual Basic Boot Camp, New Haven CT _- Certificate_
+## Visual Basic Boot Camp, New Haven CT - Certificate
 
 November 1997
 
