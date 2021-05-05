@@ -31,7 +31,7 @@ gis3dts@gmail.com
 
 # **EXPERIENCE**
 
-## Jersey City Free Public Library, Jersey City NJ _- Supervisor_
+## Jersey City Free Public Library, Jersey City NJ - Supervisor
 
 May 2014 - January 2015
 
@@ -40,20 +40,20 @@ May 2014 - January 2015
 - Liaised between community and library staff
 - Implemented department policy and standards
 
-## Jersey City Free Public Library, Jersey City NJ _- Consultant / Volunteer_
+## Jersey City Free Public Library, Jersey City NJ - Consultant / Volunteer_
 
 February 2003 - May 2014
 
 - Wrote successful grants to NJ Council on the Arts for $133,000
 
-## Independent Consultant, NYNY _-_ _Legal Videographer_
+## Independent Consultant, NY NY - Legal Videographer
 
 May2004 - February 2014
 
 - Recorded video / audio of court sanctioned proceedings
 - Maintained chain of custody for video evidence
 
-## Alliance Consulting, NY NY _- Merrill-Lynch Developer / DBA_
+## Alliance Consulting, NY NY - Merrill-Lynch Developer / DBA
 
 Oct 2000 - January 2002
 
@@ -63,7 +63,7 @@ Oct 2000 - January 2002
 
 ##
 
-## Etensity, NY NY _- Software Developer_
+## Etensity, NY NY _- Software Developer
 
 November 1999 - September 2000
 
@@ -72,13 +72,13 @@ November 1999 - September 2000
 - Represented Etensity at Microsoft conference
 - ASP, VB
 
-## Chubb Institute, Jersey City NJ_- Computer Programming Instructor_
+## Chubb Institute, Jersey City NJ - Computer Programming Instructor
 
 Sept 1998 - February 1999
 
 - Taught computer basics and web development to adults
 
-## NycoMed - Amersham, Princton NJ _- Programmer_
+## NycoMed - Amersham, Princton NJ - Programmer
 
 March 1997 - August 1998
 
@@ -99,11 +99,11 @@ March 1996 - March 1997
 
 November 1997
 
-## Chubb TOPGUN, Parsippany NJ_-_ _Certificate_
+## Chubb TOPGUN, Parsippany NJ - Certificate
 
 November1995 - February1996
 
-## New Jersey City University, Jersey City NJ _- B. A. Media Arts_
+## New Jersey City University, Jersey City NJ - B. A. Media Arts
 
 May 1993
 
