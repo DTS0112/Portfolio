@@ -1,6 +1,6 @@
 #### Languages
 [Python](#Python "Recent Python projects")
-| <a href="#ArcPy">How do I get PTB-3?</a>
+| <a href="#ArcPy">A ArcPy</a>
 | [Pandas](#Pandas "Recent Pandas projects")
 | [Matplotlib](#Matplotlib "Recent Matplotlib projects")
 | [NumPy](#NumPy "Recent NumPy projects")
