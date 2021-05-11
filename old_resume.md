@@ -2,12 +2,7 @@
 
 Computer Programmer
 
-9 Crest Drive
-
-Indianola, PA 10501
-
-(412) 228-2837
-
+(412) 228-2837  
 gis3dts@gmail.com
 
 # SKILLS
