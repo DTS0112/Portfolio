@@ -1,7 +1,7 @@
 <!---  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables ---> 
 #### Languages
-[Python](#Python "Recent Python projects")
-| [Pandas](#Pandas "Recent Pandas projects")
+[Python](#Python)
+| [Pandas](#Pandas)
 | [Matplotlib](#Matplotlib "Recent Matplotlib projects")
 | [NumPy](#NumPy "Recent NumPy projects")
 | [ArcPy](#ArcPy "Recent ArcPy projects")
