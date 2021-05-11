@@ -27,7 +27,7 @@ gis3dts@gmail.com
 
 # PORTFOLIO
 
-[Portfolio](index2.html)
+[Portfolio](index2.md)
 
 # **EXPERIENCE**
 
