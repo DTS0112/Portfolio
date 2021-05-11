@@ -1,4 +1,3 @@
-
 # Languages
 [Python](#Python "Recent Python projects")
 | <a href="#ArcPy">How do I get PTB-3?</a>
