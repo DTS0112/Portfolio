@@ -1,7 +1,7 @@
 # David T. Sanders
 (412) 228-2837  
 gis3dts@gmail.com
-#### Languages
+#### Programming
 [Python](#Python "Recent Python projects")
 | [Pandas](#Pandas "Recent Pandas projects")
 | [Matplotlib](#Matplotlib "Recent Matplotlib projects")
@@ -33,7 +33,7 @@ gis3dts@gmail.com
 | [PL/SQL](#PL/SQL "Recent PL/SQL projects")
 | [IMS](#Python "Read about my COBOL experience")
 
-#### Cloud Environents
+#### Cloud Environments
  [JupyterLab](#JupyterLab "Recent JupyterLab projects")
 | [Jupyter Notebooks](#Jupyter_Notebooks "Recent Jupyter Notebooks projects")
 | [Git](#Git "Recent Git projects")
