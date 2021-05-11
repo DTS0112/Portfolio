@@ -1,7 +1,7 @@
 <!---  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables ---> 
 #### Languages
-[Python](https://gis3dts.github.io/Portfolio/index_may11.md#Python "Recent Python projects")
-| [Pandas]([go](https://gis3dts.github.io/Portfolio/index_may11.md){:target="_Pandas"} "Recent Pandas projects")
+[Python](#Python "Recent Python projects")
+| [Pandas](#Pandas "Recent Pandas projects")
 | [Matplotlib](#Matplotlib "Recent Matplotlib projects")
 | [NumPy](#NumPy "Recent NumPy projects")
 | [ArcPy](#ArcPy "Recent ArcPy projects")
