@@ -1,7 +1,5 @@
-<!---  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables ---> 
 #### Languages
 [Python](#Python "Recent Python projects")
-| <a href="#ArcPy">How do I get PTB-3?</a>
 | [Pandas](#Pandas "Recent Pandas projects")
 | [Matplotlib](#Matplotlib "Recent Matplotlib projects")
 | [NumPy](#NumPy "Recent NumPy projects")
