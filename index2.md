@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 {% include contact_info.md %}
 
 # David T. Sanders
