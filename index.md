@@ -1,3 +1,4 @@
+{% include contact_info.md %}
 # David T. Sanders
 (412) 228-2837  
 gis3dts@gmail.com
