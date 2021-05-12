@@ -38,7 +38,7 @@ gis3dts@gmail.com
  [JupyterLab](#JupyterLab "Recent JupyterLab projects")
 | [Jupyter Notebooks](#Jupyter_Notebooks "Recent Jupyter Notebooks projects")
 | [Git](#Git "Recent Git projects")
-| [GitHub](#GitHub "Recent GitHub projects")
+| [GitHub](index2.md "Recent GitHub projects")
 | [GitPages](#GitPages "Recent GitPages projects")
 
 
