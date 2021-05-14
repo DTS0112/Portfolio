@@ -1,120 +1,109 @@
 # David T. Sanders
-
-Computer Programmer
-
-9 Crest Drive
-
-Indianola, PA 10501
-
-(412) 228-2837
-
+(412) 228-2837  
 gis3dts@gmail.com
+#### Programming
+[Python](#Python "Recent Python projects")
+| [Pandas](#Pandas "Recent Pandas projects")
+| [Matplotlib](#Matplotlib "Recent Matplotlib projects")
+| [NumPy](#NumPy "Recent NumPy projects")
+| [ArcPy](#ArcPy "Recent ArcPy projects")
+| [SodaPy](#SodaPy "Recent SodaPy projects")
+| [DavPy](#DavPy "Recent DavPy projects")
+| [Fiona](#Fiona "Recent Fiona projects")
+| [API](#API "Recent API projects")
 
-# SKILLS
 
-- Python, Pandas, Javascript, SQL, GIS, Web Development, MS Office, Cloud Computing, Google Drive, AWS, One Drive
-- Design and deploy software solutions based on business specifications
-- Analyze and implement business solutions using industry standards
-- Assess business processes and optimize workflow using current technology
-- Troubleshoot and debug new and existing code issues
-- Interpret raw data into user friendly formats
-- Data visualization using mapping software and code libraries
-- Technical and instructional documentation
-- Create and facilitate training documents and seminars
-- Facilitate communication between technical and business personnel
-- Ability to learn and utilize new technology
-- Problem solving, communication, and critical thinking skills
+ [JavaScript](#JavaScript "Recent JavaScript projects")
+| [Canvas](#Canvas "Recent Canvas projects")
+|  [DOM](#DOM "Recent DOM projects")
+| [MarkDown](#Python "Recent Python projects")
+| [HTML](#JavaScript "Read about my COBOL experience")
+| [CSS](#Python "Read about my COBOL experience")
 
-# PORTFOLIO
+ [PHP](#PHP "Recent PHP projects") 
+| [Visual Basic](#Visual_Basic] "Recent Visual Basic] projects")
+| [Active Server Pages](#Active_Server_Pages "Read about my Active Server Pages experience")
+| [COBOL](#COBOL "Read about my COBOL experience")
+| [CICS](#Fiona "Read about my COBOL experience")
 
-[https://gis3dts.github.io/Portfolio/](https://gis3dts.github.io/Portfolio/)
+#### Databases
+ [SQL](#SQL "Recent SQL projects")
+| [SQLite](#SQLite "Recent SQLite projects")
+| [MySQL](#MySQL "Recent MySQL projects")
+| [SQL Server](#SQL_Server "Recent JavaScript projects")
+| [PL/SQL](#PL/SQL "Recent PL/SQL projects")
+| [IMS](#Python "Read about my COBOL experience")
 
-# **EXPERIENCE**
+#### Cloud Environments
+ [JupyterLab](#JupyterLab "Recent JupyterLab projects")
+| [Jupyter Notebooks](#Jupyter_Notebooks "Recent Jupyter Notebooks projects")
+| [Git](index_may11.md "Recent Git projects")
+| [GitHub](https://www.github.com "Recent GitHub projects")
+| [GitPages](#GitPages "Recent GitPages projects")
 
-## Jersey City Free Public Library, Jersey City NJ - Supervisor
 
-May 2014 - January 2015
+[Google](#Google "Recent Google projects")
+| [AWS](#AWS "Recent AWS projects")
+| [OneDrive](#OneDrive "Recent OneDrive projects")
+| [ESRI](#ESRI "Recent ESRI projects")
+| [ArcOnline](#ArcOnline "Recent ArcOnline projects")
 
-- Facilitated community education and entertainment events
-- Generated reports for the Library Director and City Hall
-- Liaised between community and library staff
-- Implemented department policy and standards
+#### Office Productivity
 
-## Jersey City Free Public Library, Jersey City NJ - Consultant / Volunteer
+ [Word](#Pandas "Recent Pandas projects")
+| [Excel](#Matplotlib "Recent Matplotlib projects")
+| [Access](#NumPy "Recent NumPy projects")
+| [PowerPoint](#ArcPy "Recent ArcPy projects")
+| [Outlook](#SodaPy "Recent SodaPy projects")  
 
-February 2003 - May 2014
+ [GoogleSheets](#DavPy "Recent DavPy projects")
+| [GoogleDocs](#Fiona "Recent Fiona projects")
+| [GoogleDraw](#API "Recent API projects")
 
-- Wrote successful grants to NJ Council on the Arts for \$133,000 
+# Portfolio narrative
+Returning to programming has been a fun and challenging adventure. After some research, Python seemed like a good place to start. I dove right in by taking the [Python.org tutorial](https://docs.python.org/3/tutorial/index.html), then reading [Learning Python](https://learning-python.com/) by Mark Lutz. It's an immersive and dense book... and I loved reading it! Got up to page 936 (classes) and took a break to get some hands on practice with the University of Helsinkis [Geo-Python course](https://geo-python-site.readthedocs.io/en/latest/). What a wild ride! This tutorial is one of my all-time favorites. It's packed with knowledge, and can be VERY challenmging.This course I learned to use JupyterLab and github.  Together they seemed like the pot at the end of the rainbow for a continuing learner like me. I was so excited I wrote a short manual on how to use the two together : How to use GitHub without getting git.
 
-## Independent Consultant, NY NY - Legal Videographer
 
-May2004 - February 2014
+What is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-- Recorded video / audio of court sanctioned proceedings
-- Maintained chain of custody for video evidence
+![Thanks Helsinki University](temp_line_plot.png)
 
-## Alliance Consulting, NY NY - Merrill-Lynch Developer / DBA
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-Oct 2000 - January 2002
+![Thanks Helsinki University](my_third_plot.png)
 
-- Consulted onsite at Merrill-Lynch
-- Technical team lead for department of seven content developers
-- ASP, SQL, JavaScript, HTML
+Where does it come from?
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 
-## Etensity, NY NY - Software Developer
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 
-November 1999 - September 2000
+Where can I get some?
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+  
+# Python <a id="Python"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-- Supported various client projects
-- Maintained and updated online ordering system for The Wedding List
-- Represented Etensity at Microsoft conference
-- ASP, VB
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+# Pandas <a id="Pandas"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Chubb Institute, Jersey City NJ - Computer Programming Instructor
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+# Matplotlib  <a id="Matplotlib"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-Sept 1998 - February 1999
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).  
+# NumPy  <a id="NumPy"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-- Taught computer basics and web development to adults
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-## NycoMed - Amersham, Princton NJ - Programmer
+# SodaPy  <a id="SodaPy"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-March 1997 - August 1998
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+# ArcPy  <a id="ArcPy"></a>
+What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-- Migrated legacy systems to VB, Oracle
-- VB, ASP, PL/SQL, COBOL
-
-## Chubb Insurance Company, Warren NJ
-
-March 1996 - March 1997
-
-- Maintained legacy systems
-- Led team of 4 new-hires for Y2K preparations
-- COBOL, JCL, IMS, CICS
-
-# **EDUCATION**
-
-## Visual Basic Boot Camp, New Haven CT - Certificate
-
-November 1997
-
-## Chubb TOPGUN, Parsippany NJ - Certificate
-
-November1995 - February1996
-
-## New Jersey City University, Jersey City NJ - B. A. Media Arts
-
-May 1993
-
-# CERTIFICATIONS
-
-Johns Hopkins University (Coursera) - COVID-19 Contact Tracing (2020)
-
-ASTHO - Making Contact: A Training for COVID-19 Contact Tracers (2020)
-
-ESRI ArcGIS Online Basics Web Course Certificate (2020)
-
-Microsoft Certified Professional, Visual Interdav (2000)
-
-# REFERENCES
-
-Available upon request
+Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
