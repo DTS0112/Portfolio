@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> This is a test of python in html </title>\
+</head>
+<body>
+The current date is
+<% import datetime
+print datetime.date.today().strftime("%d:%m:%y")
+%>
+</body>
+</html>
