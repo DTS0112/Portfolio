@@ -13,8 +13,8 @@ Pandas
 | SodaPy
 | API
 
- [MarkDown](#Python "Recent Python projects")
-| [HTML](#JavaScript "Read about my COBOL experience")
+ [MarkDown](#Markdown "Recent Markdown projects")
+| [HTML](#HTML "Read about my HTML experience")
 
 #### Databases
  SQL
