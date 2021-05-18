@@ -3,23 +3,18 @@
 gis3dts@gmail.com
 #### Programming
 [Python](#Python "Recent Python projects")
-| [Pandas](#Pandas "Recent Pandas projects")
-| [Matplotlib](#Matplotlib "Recent Matplotlib projects")
-| [NumPy](#NumPy "Recent NumPy projects")
-| [ArcPy](#ArcPy "Recent ArcPy projects")
-| [SodaPy](#SodaPy "Recent SodaPy projects")
-| [DavPy](#DavPy "Recent DavPy projects")
-| [Fiona](#Fiona "Recent Fiona projects")
-| [API](#API "Recent API projects")
+|  [JavaScript](#JavaScript "Recent JavaScript projects")  
 
 
- [JavaScript](#JavaScript "Recent JavaScript projects")
+|Pandas
+| Matplotlib
+| NumPy
+| ArcPy
+| SodaPy
+| API
+
 | [MarkDown](#Python "Recent Python projects")
 | [HTML](#JavaScript "Read about my COBOL experience")
-
-
-
-
 
 #### Databases
  SQL
