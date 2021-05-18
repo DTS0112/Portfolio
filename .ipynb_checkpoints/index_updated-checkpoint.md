@@ -6,7 +6,7 @@ gis3dts@gmail.com
 |  [JavaScript](#JavaScript "Recent JavaScript projects")  
 
 
-|Pandas
+Pandas
 | Matplotlib
 | NumPy
 | ArcPy
