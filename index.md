@@ -54,6 +54,6 @@ Ah what can I say... I can still code a basic HTML page from memory. My knowledg
 # Matplotlib <a id="Matplotlib"></a>
 This is from a Pittsburgh weather data project. It's an example of various chart color options.
 ![Matplotlib plot](assets/images/indigo-maroon-forestgreen1993_temp_comparision.png )
-![test image size](assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png)
-![image](assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png )
-![image](assets/images/c-m-y1985_temp_comparision.png )
+![Matplotlib plot](assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png)
+![Matplotlib plot](assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png )
+![Matplotlib plot](assets/images/c-m-y1985_temp_comparision.png )
