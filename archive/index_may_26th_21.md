@@ -7,7 +7,7 @@ gis3dts@gmail.com
 
 
 Pandas
-| [Matplotlib](#matplotlib "Recent Matplotlib projects")
+| Matplotlib
 | NumPy
 | ArcPy
 | SodaPy
@@ -50,10 +50,3 @@ Check out the Markdown documents for the CMS project I'm developing.
 
 # HTML  <a id="HTML"></a>
 Ah what can I say... I can still code a basic HTML page from memory. My knowledge of HTML has helped me with a few projects recently, including anchor tags for this document. It was also a part of quickly completeing this Javascript API call.
-
-# Matplotlib <a id="Matplotlib"></a>
-This is from a Pittsburgh weather data project. It's an example of various chart color options.
-![Matplotlib plot](assets/images/indigo-maroon-forestgreen1993_temp_comparision.png )
-![test image size](assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png)
-![image](assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png )
-![image](assets/images/c-m-y1985_temp_comparision.png )
