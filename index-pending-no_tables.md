@@ -1,7 +1,3 @@
-# David T. Sanders
-(412) 228-2837  
-gis3dts@gmail.com
-
 ## [Python](#Python "Recent Python projects")
 
 | Pandas | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
