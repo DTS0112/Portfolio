@@ -1,4 +1,5 @@
 title: <h1 style="color:Grey;">David T. Sanders</h3><h5 style="color:Grey;">david.t.sanders2021@gmail.com<br>412-228-2837</h5>
 theme: jekyll-theme-slate
+show_downloads: false
 github:
   is_project_page: false
