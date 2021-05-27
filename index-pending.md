@@ -1,19 +1,19 @@
 # David T. Sanders
 (412) 228-2837  
 gis3dts@gmail.com
-#### Programming
-[Python](#Python "Recent Python projects")
-|  [JavaScript](#JavaScript "Recent JavaScript projects")  
 
+## [Python](#Python "Recent Python projects")
 
-Pandas
-| [Matplotlib](#Matplotlib "Recent Matplotlib projects")
-| NumPy
-| ArcPy
-| SodaPy
-| API
+| Pandas | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
+| --- | --- | --- | --- | --- |
+| [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Pandas)   | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
+#####
+## [JavaScript](#Python "Recent Python projects")
 
+| Pandas | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
+| --- | --- | --- | --- | --- |
+| [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Pandas)   | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
  [MarkDown](#Markdown "Recent Markdown projects")
 | [HTML](#HTML "Read about my HTML experience")
 
@@ -53,8 +53,9 @@ Check out the Markdown documents for the CMS project I'm developing.
 Ah what can I say... I can still code a basic HTML page from memory. My knowledge of HTML has helped me with a few projects recently, including anchor tags for this document. It was also a part of quickly completeing this Javascript API call.
 
 # Matplotlib <a id="Matplotlib"></a>
-This is from a Pittsburgh weather data project. It's an example of various chart color options.
-![Matplotlib plot](assets/images/indigo-maroon-forestgreen1993_temp_comparision.png )
-![Matplotlib plot](assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png)
-![Matplotlib plot](assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png )
-![Matplotlib plot](assets/images/c-m-y1985_temp_comparision.png )
+This is from a Pittsburgh weather data project. It's an example of various chart color options.  
+<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width='20%'>
+<img src='assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png' width='20%'>
+<img src='assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png' width='20%'>
+<img src='assets/images/c-m-y1985_temp_comparision.png' width='20%'>
+

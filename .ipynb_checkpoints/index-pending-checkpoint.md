@@ -13,6 +13,7 @@ Pandas
 | SodaPy
 | API
 
+<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="20%">
 
  [MarkDown](#Markdown "Recent Markdown projects")
 | [HTML](#HTML "Read about my HTML experience")

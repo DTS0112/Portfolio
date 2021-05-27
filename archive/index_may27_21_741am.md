@@ -13,7 +13,6 @@ Pandas
 | SodaPy
 | API
 
-
  [MarkDown](#Markdown "Recent Markdown projects")
 | [HTML](#HTML "Read about my HTML experience")
 
