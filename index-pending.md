@@ -9,9 +9,9 @@ gis3dts@gmail.com
 | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Pandas)   | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
 
-## [JavaScript](#Python "Recent Python projects")
+## [JavaScript](#JavaScript "Recent JavaScript projects")
 
-| Pandas | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy |  
+| [API](#JavaScript) | [Games](#JavaScript) | [Client](#JavaScript) | [Server](#JavaScript)  | [Files](#JavaScript)  |  
 | --- | --- | --- | --- | --- |
 | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Pandas)   | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |  
 
