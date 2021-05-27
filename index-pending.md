@@ -40,7 +40,8 @@ Returning to programming has been a fun and challenging adventure. After some re
 
 # JavaScript  <a id="JavaScript"></a>
 After ECMAScript 6 came out, I spent a few months reaquinting myself with the changes to JavaScript. I began reading [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke. This book is excellent and very hard. At the time (early 2017) the third edition was still in development and it felt like the cutting edge. To get a different perspective (and immediate gratification), I started reading some of the Mozilla Developers Network (MDN) [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and taking some of the cool [tutorials](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice) which I plan to revisit for this portfolio.  
-**JavaScript Examples**  
+
+**JavaScript Examples**   
 **[Simple API](assets/fetch.html)** (Note: This API worked like a charm the first few days, and then somehow it went over the download limit (maybe). Not sure if this is because I never signed up for the service officially, or because this API points to a beta database, and the developers are making changes. Either way, at some point, I'll put the console logs on the site so you can enjoy the error messages. Until then... try hitting ctrl + shift + I, and then find the console tab to see the messages.)
 
 # Markdown  <a id="Markdown"></a>
