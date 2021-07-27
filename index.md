@@ -38,7 +38,7 @@ Returning to programming has been a fun and challenging adventure. After some re
 
 
 # JavaScript  <a id="JavaScript"></a>
-After ECMAScript 6 came out, I spent a few months reacquainting myself with the changes to JavaScript. I began reading [Eloquent Javascript](https://eloquentjavascript.net/) by Marijn Haverbeke. This book is excellent and very hard. At the time (early 2017) the third edition was still in development and it felt like the cutting edge. To get a different perspective (and immediate gratification), I started reading some of the Mozilla Developers Network (MDN) [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and taking some of the cool [tutorials](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice) which I plan to revisit for this portfolio.  
+After ECMAScript 6 came out, I spent a few months reacquainting myself with the changes to JavaScript. I began reading [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. This book is excellent and very hard. At the time (early 2017) the third edition was still in development and it felt like the cutting edge. To get a different perspective (and immediate gratification), I started reading some of the Mozilla Developers Network (MDN) [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and taking some of the cool [tutorials](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice) which I plan to revisit for this portfolio.  
 **JavaScript Examples**  
 **[Simple API](assets/fetch.html)** (Note: This API worked like a charm the first few days, and then somehow it went over the download limit (maybe). Not sure if this is because I never signed up for the service officially, or because this API points to a beta database, and the developers are making changes. Either way, at some point, I'll put the console logs on the site so you can enjoy the error messages. Until then... try hitting ctrl + shift + I, and then find the console tab to see the messages.)
 
@@ -50,7 +50,7 @@ Check out the Markdown documents for the CMS project I'm developing.
 
 
 # HTML  <a id="HTML"></a>
-Ah what can I say... I can still code a basic HTML page from memory. My knowledge of HTML has helped me with a few projects recently, including anchor tags for this document. It was also a part of quickly completeing this Javascript API call.
+Ah what can I say... I can still code a basic HTML page from memory. My knowledge of HTML has helped me with a few projects recently, including anchor tags for this document. It was also a part of quickly completing this JavaScript API call.
 
 # Matplotlib <a id="Matplotlib"></a>
 This is from a Pittsburgh weather data project. It's an example of various chart color options.
