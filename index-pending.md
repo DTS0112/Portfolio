@@ -37,7 +37,7 @@ Returning to programming has been a fun and challenging adventure. After some re
 # GeoPandas <a id="GeoPandas"></a>
 These are plots of Pitsburgh Census blocks and geographic codes from a neighborhood inequity project that I'm developing.  
 <img src='assets/images/geopandas_pgh_senate_districts.png' width='20%'>
-<img src='assets/images/geopandas_pgh_districts.png' width='20%'>
+<img src='assets/images/geopandas_pgh_city_council_districts.png' width='20%'>
 <img src='assets/images/geopandas_pgh_wards.png' width='20%'>
 <img src='assets/images/geopandas_pgh_DPW_districts.png' width='20%'>
 
