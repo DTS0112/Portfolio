@@ -60,7 +60,7 @@ After ECMAScript 6 came out, I spent a few months reacquainting myself with the 
 # Markdown  <a id="Markdown"></a>
 I'd never heard of the Markdown language before exploring GitHub. It's easy to learn and use, but was frustrating early-on because of sparse options compared to HTML. Since then it's become clear that limited control keeps documents consistent and clean. It's hard to make a Markdown document look bad, but I'm still trying :).
 
-Check out the Markdown documents for the CMS project I'm developing.
+Check out the Markdown documents for the CMS project I'm developing. (coming soon)
 
 
 
