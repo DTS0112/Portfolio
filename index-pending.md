@@ -1,6 +1,6 @@
 ## [Python](#Python "Recent Python projects")
 
-| [GeoPandas](#GeoPandas) | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
+| [GeoPandas](#GeoPandas) | [Matplotlib](#Matplotlib) | [Pandas](#Pandas)  | Arcpy | Sodapy | 
 | --- | --- | --- | --- | --- |
 | [<img src='assets/images/geopandas_pgh_senate_districts.png' width="90%">](#GeoPandas)   | [<img src='assets/images/matplotlib_examples.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
@@ -34,6 +34,13 @@ Returning to programming has been a fun and challenging adventure. After some re
  **[list comprehensions](https://nbviewer.jupyter.org/github/gis3dts/Portfolio/blob/gh-pages/NOAA_file_parser.ipynb)**
 
 
+# Pandas <a id="Pandas"></a>
+This is from a Pittsburgh weather data project. It's an example of various chart color options.  
+<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width='20%'>
+<img src='assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png' width='20%'>
+<img src='assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png' width='20%'>
+<img src='assets/images/c-m-y1985_temp_comparision.png' width='20%'>  
+
 # GeoPandas <a id="GeoPandas"></a>
 These are plots of Pittsburgh Census blocks and geographic codes from a neighborhood inequity project that I'm developing.  
 <img src='assets/images/geopandas_pgh_senate_districts.png' width='20%'>
@@ -62,8 +69,8 @@ Ah what can I say... I can still code a basic HTML page from memory. My knowledg
 
 # Matplotlib <a id="Matplotlib"></a>
 This is from a Pittsburgh weather data project. It's an example of various chart color options.  
-<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width='20%'>
-<img src='assets/images/tab_blue-tab_orange-tab_green1993_temp_comparision.png' width='20%'>
+<img src='assets/images/geopandas_pgh_police_precincts.png' width='20%'>
+<img src='assets/images/matplotlib_la_by_race.png' width='20%'>
 <img src='assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png' width='20%'>
 <img src='assets/images/c-m-y1985_temp_comparision.png' width='20%'>
 
