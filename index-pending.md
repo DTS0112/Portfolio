@@ -71,6 +71,6 @@ Ah what can I say... I can still code a basic HTML page from memory. My knowledg
 This is from a Pittsburgh weather data project. It's an example of various chart color options.  
 <img src='assets/images/geopandas_pgh_police_precincts.png' width='20%'>
 <img src='assets/images/matplotlib_la_by_race.png' width='20%'>
-<img src='assets/images/tab_grey-tab_olive-tab_cyan1993_temp_comparision.png' width='20%'>
+<img src='assets/images/matplotlib_meme.png' width='20%'>
 <img src='assets/images/c-m-y1985_temp_comparision.png' width='20%'>
 
