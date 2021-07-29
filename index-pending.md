@@ -33,6 +33,17 @@ Returning to programming has been a fun and challenging adventure. After some re
 **Python Examples**  
  **[list comprehensions](https://nbviewer.jupyter.org/github/gis3dts/Portfolio/blob/gh-pages/NOAA_file_parser.ipynb)**
 
+
+# GeoPandas <a id="GeoPandas"></a>
+Thwse are Pitsburgh Census blocks and geographic codes from a neighborhood inequity project that I'm developing.  
+<img src='assets/images/geopandas_pgh_senate_districts.png' width='20%'>
+<img src='assets/images/geopandas_pgh_districts.png' width='20%'>
+<img src='assets/images/geopandas_pgh_wards.png' width='20%'>
+<img src='assets/images/geopandas_pgh_DPW_districts.png' width='20%'>
+
+
+
+
 # JavaScript  <a id="JavaScript"></a>
 After ECMAScript 6 came out, I spent a few months reacquainting myself with the changes to JavaScript. I began reading [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. This book is excellent and very hard. At the time (early 2017) the third edition was still in development and it felt like the cutting edge. To get a different perspective (and immediate gratification), I started reading some of the Mozilla Developers Network (MDN) [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and taking some of the cool [tutorials](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice) which I plan to revisit for this portfolio.  
 
