@@ -68,7 +68,7 @@ Check out the Markdown documents for the CMS project I'm developing.
 Ah what can I say... I can still code a basic HTML page from memory. My knowledge of HTML has helped me with a few projects recently, including anchor tags for this document. It was also a part of quickly completing this JavaScript API call.
 
 # Matplotlib <a id="Matplotlib"></a>
-These are all my creation from recent projects. The data in the Low Access bar chart is test data (for now) and the meme is anecdotal, the rest use real data. 
+These are all my creation from recent projects. The data in the Low Access bar chart is test data (for now) and the meme is anecdotal, the rest use real data.  
 <img src='assets/images/geopandas_pgh_police_precincts.png' width='20%'>
 <img src='assets/images/matplotlib_la_by_race.png' width='20%'>
 <img src='assets/images/matplotlib_meme.png' width='20%'>
