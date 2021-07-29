@@ -1,6 +1,6 @@
 ## [Python](#Python "Recent Python projects")
 
-| Pandas | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
+| GeoPandas(#GeoPandas) | [Matplotlib](#Matplotlib) | Numpy | Arcpy | Sodapy | 
 | --- | --- | --- | --- | --- |
 | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Pandas)   | [<img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
