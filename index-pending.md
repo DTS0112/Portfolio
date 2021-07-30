@@ -66,4 +66,4 @@ These are all my creation from recent projects. The data in the Low Access bar c
 <img src='assets/images/matplotlib_la_by_race.png' width='20%'>
 [<img src='assets/images/matplotlib_meme.png' width='20%'>](assets/images/matplotlib_meme.png)
 <img src='assets/images/c-m-y1985_temp_comparision.png' width='20%'>
-
+[<img src='assets/images/matplotlib_table_example.png' width='20%'>](assets/images/matplotlib_meme.png)
