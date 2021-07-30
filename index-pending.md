@@ -62,8 +62,12 @@ Ah what can I say... I can still code a basic HTML page from memory. My knowledg
 
 # Matplotlib <a id="Matplotlib"></a>
 These are all my creation from recent projects. The data in the Low Access bar chart is test data (for now) and the meme is anecdotal, the rest use real data.  
-<img src='assets/images/geopandas_pgh_police_precincts.png' width='80%'>
-<img src='assets/images/matplotlib_la_by_race.png' width='80%'>
-[<img src='assets/images/matplotlib_meme.png' width='80%'>]
-<img src='assets/images/c-m-y1985_temp_comparision.png' width='80%'>
-[<img src='assets/images/matplotlib_table_example.png' width='80%'>]
+<img src='assets/images/geopandas_pgh_police_precincts.png' width='80%'>  
+
+<img src='assets/images/matplotlib_la_by_race.png' width='80%'>  
+
+<img src='assets/images/matplotlib_meme.png' width='80%'>  
+
+<img src='assets/images/c-m-y1985_temp_comparision.png' width='80%'>  
+
+<img src='assets/images/matplotlib_table_example.png' width='80%'>  
