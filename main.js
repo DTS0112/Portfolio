@@ -91,8 +91,8 @@ while(balls.length < 200) {
     // away from the adge of the canvas, to avoid drawing errors
     random(0 + size,width - size),
     random(0 + size,height - size),
-    random(-1,1),
-    random(-.1,.1),
+    random(-.3,.3),
+    random(-.3,.3),
     'rgb(' + random(0,255) + ',' + random(0,255) + ',' + random(0,255) +')',
     size
   );
