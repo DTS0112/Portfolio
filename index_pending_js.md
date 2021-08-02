@@ -6,10 +6,10 @@
 
 
 ## [JavaScript](#JavaScript "Recent JavaScript projects")
- <h1>David T. Sanders</h1>
+
     <canvas></canvas>
 
-    <script src="main.js"></script>
+    <script src="main.js"><br></script>
     
 [Markdown](#Markdown "Recent Markdown projects") | [HTML](#HTML "Read about my HTML experience")
 
