@@ -1,11 +1,15 @@
 ## [Python](#Python "Recent Python projects")
 
-| [GeoPandas](#GeoPandas) | [Matplotlib](#Matplotlib) | [Pandas](#Pandas)  | Arcpy | Sodapy | 
+| [GeoPandas](#GeoPandas) | [Matplotlib](#Matplotlib) | [Pandas](#Pandas)  | 
 | --- | --- | --- | --- | --- |
-| [<img src='assets/images/geopandas_pgh_senate_districts.png' width="90%">](#GeoPandas)   | [<img src='assets/images/matplotlib_examples.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
+| [<img src='assets/images/geopandas_pgh_senate_districts.png' width="90%">](#GeoPandas)   | [<img src='assets/images/matplotlib_examples.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
 
-## [JavaScript](#JavaScript "Recent JavaScript projects") | [Markdown](#Markdown "Recent Markdown projects") | [HTML](#HTML "Read about my HTML experience")
+## [JavaScript](#JavaScript "Recent JavaScript projects")  
+[<img src='assets/images/balls.png' width="90%">](#index2.html)
+
+
+[Markdown](#Markdown "Recent Markdown projects") | [HTML](#HTML "Read about my HTML experience")
 
 #### Databases
  SQL
