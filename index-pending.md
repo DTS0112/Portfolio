@@ -1,7 +1,7 @@
 ## [Python](#Python "Recent Python projects")
 
 | [GeoPandas](#GeoPandas) | [Matplotlib](#Matplotlib) | [Pandas](#Pandas)  | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | [<img src='assets/images/geopandas_pgh_senate_districts.png' width="90%">](#GeoPandas)   | [<img src='assets/images/matplotlib_examples.png' width="90%">](#Matplotlib) | <img src='assets/images/indigo-maroon-forestgreen1993_temp_comparision.png' width="90%"> |
 
 
