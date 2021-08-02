@@ -9,7 +9,7 @@
 [<img src='assets/images/balls_200w.png' width="33%">](index2.html)  
 
 
-[Markdown](#Markdown "Recent Markdown projects") | [HTML](#HTML "Read about my HTML experience")
+[Markdown](#Markdown "Recent Markdown projects")  |  [HTML](#HTML "Read about my HTML experience")
 
 #### Databases
  SQL
