@@ -84,15 +84,15 @@ Ball.prototype.collisionDetect = function() {
 
 let balls = [];
 
-while(balls.length < 200) {
+while(balls.length < 50) {
   const size = random(10,20);
   let ball = new Ball(
     // ball position always drawn at least one ball width
     // away from the adge of the canvas, to avoid drawing errors
     random(0 + size,width - size),
     random(0 + size,height - size),
-    random(-.3,.3),
-    random(-.3,.3),
+    random(-.1,.1),
+    random(-.1,.1),
     'rgb(' + random(0,255) + ',' + random(0,255) + ',' + random(0,255) +')',
     size
   );
