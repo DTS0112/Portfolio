@@ -1,6 +1,16 @@
 Aug 2nd 2021
 
-was able to convert polygon to array by first reading the shapefile into a geodata frame, selecting a neighborhood using .loc, then using the boundary method... and saving that to a shape file
+was able to convert polygon to array by first reading the shapefile into a geodata frame,
+selecting a neighborhood using .loc, then using the boundary method on the result... and saving that to a shape file
+ The boundary shape file was the input to the make array code.
+ 
+ Did a dissolve on hoods in process_pgh_data and made a boundary file from the
+ south oakland hood... but the get array code only gave one set of points
+ 
+ had to stop working cause air issues
+ 
+
+
 
 https://gis.stackexchange.com/questions/252764/converting-a-list-of-shapely-geometry-to-numpy-array
 https://stackoverflow.com/questions/44969880/draw-polygon-canvas-from-coordinates-map
