@@ -1,0 +1,3 @@
+Aug 2nd 2021
+
+was able to convert polygon to array by first reading the shapefile into a geodata frame, selecting a neighborhood using .loc, then using the boundary method... and saving that to a shape file
