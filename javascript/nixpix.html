@@ -13,21 +13,31 @@
    
 
   <script >
-    const canvas = document.getElementById('canvas');
-    const ctx = canvas.getContext('2d');
-    var img = new Image();   // Create new img element
+  
     var dx = 10;
     var dy = 20;
     var dWidth = 50;
     var dHeight = 60;
+     
+  function drawpic() {
+  var ctx = document.getElementById('canvas').getContext('2d');
+  var img = new Image();
+  img.addEventListener('load', function(){
+    ctx.drawImage(img, 0, 0);
+  });
+  img.src = 'assets/images/NixPic.jpg';
+}   
       
-    img.src = 'assets/images/NixPic.jpg'; // Set source path  
+ drawpic()
       
-    img.addEventListener('load', function() {
-  // execute drawImage statements here
-        ctx.drawImage(img, dx, dy, dWidth, dHeight);
+      
+//     img.src = 'assets/images/NixPic.jpg'; // Set source path  
+    
+//     img.addEventListener('load', function() {
+//   // execute drawImage statements here
+//         ctx.drawImage(img, dx, dy, dWidth, dHeight);
         
-    }, false);
+//     }, false);
    
     
     
