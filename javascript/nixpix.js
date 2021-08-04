@@ -7,15 +7,15 @@
 // });
 
 
-var nixdx = 10;
+    var nixdx = 10;
     var nixdy = 20;
     var nixdWidth = 50;
     var nixdHeight = 60;
      
-   const nixoncanvas = document.querySelector('nixcanvas');
+   const nixoncanvas = document.getElementById('nixcanvas');
    const nixonctx = nixoncanvas.getContext('2d');
-  var img = new Image();
-  img.src="../assets/images/NixPic.jpg"
+   var img = new Image();
+   img.src="../assets/images/NixPic.jpg"
     
   
     ctx.drawImage(img, 0, 0);
