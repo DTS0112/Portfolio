@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <div style="display:none;">
+    <div >
   <img id="source"
        src="assets/images/NixPic.jpg"
        width="300" height="227">
@@ -16,21 +16,7 @@
 
   <script >
   
-    var dx = 10;
-    var dy = 20;
-    var dWidth = 50;
-    var dHeight = 60;
-     
-  function drawpic() {
-  var ctx = document.getElementById('canvas').getContext('2d');
-  var img = new Image();
-  img.addEventListener('load', function(){
-    ctx.drawImage(img, 0, 0);
-  });
-  img.src = 'assets/images/NixPic.jpg';
-}   
-      
- drawpic()
+   
 
   </script> 
 
