@@ -16,7 +16,7 @@
    const nixonctx = nixoncanvas.getContext('2d');
    var img = new Image();
    img.src="../assets/images/NixPic.jpg";
-   ctx.drawImage(img, 0, 0);
+   nixonctx.drawImage(img, 0, 0);
   
  
 
