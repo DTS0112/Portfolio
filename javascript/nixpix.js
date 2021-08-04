@@ -14,8 +14,8 @@
     var nixsHeight = 60;
     var nixdx = 0;
     var nixdy = 0;
-    var nixdWidth = 50;
-    var nixdHeight = 60;
+    var nixdWidth = 100;
+    var nixdHeight = 100;
      
    const nixoncanvas = document.getElementById('nixcanvas');
    const nixonctx = nixoncanvas.getContext('2d');
@@ -25,7 +25,7 @@
    
 
  img.addEventListener('load', function(){
-   nixonctx.drawImage(img, 0, 0);
+   nixonctx.drawImage(img, nixsx, nixsy, nixsWidth, nixsHeight, nixdx, nixdy,nixdWidth,nixdHeight);
   });
   
   
