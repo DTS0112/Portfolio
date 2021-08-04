@@ -12,8 +12,9 @@ var dx = 10;
     var dWidth = 50;
     var dHeight = 60;
      
-  
-  var ctx = document.getElementById('nixcanvas').getContext('2d');
+   const canvas = document.querySelector('nixcanvas');
+   const ctx = canvas.getContext('2d');
+ 
   var img = new Image();
   img.addEventListener('load', function(){
     ctx.drawImage(img, 0, 0);
