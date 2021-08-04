@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>DTS Breakout</title>
+    <title>Gamedev Canvas Workshop - lesson 10: finishing up</title>
     <style>* { padding: 0; margin: 0; } canvas { background: #eee; display: block; margin: 0 auto; }</style>
 </head>
 <body>
@@ -76,6 +76,8 @@
                         b.status = 0;
                        
                         score++;
+                        //dx = dx + .3;
+                        dy = dy + .4;
                         if(score == brickRowCount*brickColumnCount) {
                             alert("YOU WIN, CONGRATS!");
                             document.location.reload();
@@ -169,11 +171,13 @@
                     document.location.reload();
                 }
                 else {
+                	paddleX = (canvas.width-paddleWidth)/2;
                     x = canvas.width/2;
-                    y = canvas.height-30;
-                    dx = 2;
-                    dy = -2;
-                    paddleX = (canvas.width-paddleWidth)/2;
+                    y  = canvas.height-paddleHeight + 1;
+                  //y = canvas.height-30;
+                    //dx = 2;
+                    //dy = -2;
+                    
                 }
             }
         }
