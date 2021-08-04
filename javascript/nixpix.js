@@ -15,8 +15,14 @@
    const nixoncanvas = document.getElementById('nixcanvas');
    const nixonctx = nixoncanvas.getContext('2d');
    var img = new Image();
-   img.src="../assets/images/NixPic.jpg";
+   
+    img.src="../assets/images/NixPic.jpg";
+   
+
+ img.addEventListener('load', function(){
    nixonctx.drawImage(img, 0, 0);
+  });
+  
   
  
 
