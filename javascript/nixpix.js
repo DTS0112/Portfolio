@@ -14,10 +14,6 @@ var nixdx = 10;
      
    const nixoncanvas = document.querySelector('nixcanvas');
    const nixonctx = nixoncanvas.getContext('2d');
- 
-  
-
-  var ctx = document.getElementById('canvas').getContext('2d');
   var img = new Image();
   img.src="../assets/images/NixPic.jpg"
     
