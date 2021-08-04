@@ -6,7 +6,7 @@
 
 
 ## [JavaScript](#JavaScript "Recent JavaScript projects")  
-[<img src='assets/images/balls_200w.png' width="33%">](index2.html)  
+[<img src='assets/images/balls_200w.png' width="33%">](index2.html)
 [<img src='assets/images/breakout.png' width="33%">](index2.html)  
 
 [Markdown](#Markdown "Recent Markdown projects")
