@@ -8,14 +8,14 @@
 
 // https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
    
-    var nixsx = 80;
-    var nixsy = 70;
+    var nixsx = 76;
+    var nixsy = 76;
     var nixsWidth = 25;
     var nixsHeight = 20;
     var nixdx = 0;
     var nixdy = 0;
-    var nixdWidth = 249;
-    var nixdHeight = 202;
+    var nixdWidth = 25;
+    var nixdHeight = 20;
      
    const nixoncanvas = document.getElementById('nixcanvas');
    const nixonctx = nixoncanvas.getContext('2d');
