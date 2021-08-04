@@ -10,7 +10,7 @@ const height = canvas.height = window.innerHeight;
 
 
 const img = new Image();
-img.src="../assets/images/nixface.png";
+img.src="../assets/images/NixPic.png";
 
 
 // function to generate random number
