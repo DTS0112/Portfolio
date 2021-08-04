@@ -3,10 +3,15 @@
 const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
 
-const width = canvas.width = "100";
-const height = canvas.height = "100";
-//const width = canvas.width = window.innerWidth;
-//const height = canvas.height = window.innerHeight;
+//const width = canvas.width = "100";
+//const height = canvas.height = "100";
+const width = canvas.width = window.innerWidth;
+const height = canvas.height = window.innerHeight;
+
+
+const img = new Image();
+img.src="../assets/images/nixface.png";
+
 
 // function to generate random number
 
@@ -106,7 +111,9 @@ while(balls.length < 50) {
 function loop() {
   ctx.fillStyle = 'rgba(0,0,0,0.25)';
   ctx.fillRect(0,0,width,height);
-
+  ctx.drawImage(img, 0,0);
+  
+  
   for(let i = 0; i < balls.length; i++) {
     balls[i].draw();
     balls[i].update();
