@@ -6,9 +6,14 @@
 //   ctx.drawImage(image, 33, 71, 104, 124, 21, 20, 87, 104);
 // });
 
-
-    var nixdx = 10;
-    var nixdy = 20;
+// https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/drawImage
+   
+    var nixsx = 10;
+    var nixsy = 20;
+    var nixsWidth = 50;
+    var nixsHeight = 60;
+    var nixdx = 0;
+    var nixdy = 0;
     var nixdWidth = 50;
     var nixdHeight = 60;
      
