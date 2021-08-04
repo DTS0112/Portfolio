@@ -19,7 +19,7 @@ var dx = 10;
   img.addEventListener('load', function(){
     ctx.drawImage(img, 0, 0);
   });
-  img.src = 'assets/images/NixPic.jpg';
+  img.src = '../assets/images/NixPic.jpg';
  
       
  
