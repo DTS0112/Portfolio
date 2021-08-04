@@ -15,7 +15,25 @@
    
    
 </div>
-  <!--  <script src="nixpix.js"></script> -->
+  <script >
+    const canvas = document.getElementById('canvas');
+    const ctx = canvas.getContext('2d');
+    var img = new Image();   // Create new img element
+    var dx = 10;
+    var dy = 20;
+    var dwidth = 50;
+    var dheight = 60;
+      
+    img.addEventListener('load', function() {
+  // execute drawImage statements here
+        ctx.drawImage(img, dx, dy, dWidth, dHeight);
+        
+    }, false);
+    img.src = 'assets/images/NixPic.jpg'; // Set source path
+    
+    
+    
+  </script> 
 
 </body>
 </html>
