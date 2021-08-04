@@ -7,17 +7,17 @@
 // });
 
 
-var dx = 10;
-    var dy = 20;
-    var dWidth = 50;
-    var dHeight = 60;
+var nixdx = 10;
+    var nixdy = 20;
+    var nixdWidth = 50;
+    var nixdHeight = 60;
      
    const nixcanvas = document.querySelector('nixcanvas');
-   const ctx = nixcanvas.getContext('2d');
+   const nixctx = nixcanvas.getContext('2d');
  
   var img = new Image();
   img.addEventListener('load', function(){
-    ctx.drawImage(img, 0, 0);
+    nixctx.drawImage(img, 0, 0);
   });
   img.src = '../assets/images/NixPic.jpg';
  
