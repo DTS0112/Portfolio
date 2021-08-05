@@ -171,7 +171,7 @@
                 lives--;
                 if(!lives) {
                     alert("GAME OVER");
-                    document.location.reload();
+                    setTimeout (document.location.reload(), 2000);
                 }
                 else {
                 	paddleX = (canvas.width-paddleWidth)/2;
