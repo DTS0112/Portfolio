@@ -39,8 +39,9 @@
             bricks[c][r] = { x: 0, y: 0, status: 1 };
         }
     }
-
-		const colors = ["#ffab00", "	#ee9600", "	#e06000", "	#a6001a", "	#633517"];
+    
+    // https://www.w3schools.com/colors/colors_fs595.asp	
+    const colors = ["#ffab00", "	#ee9600", "	#e06000", "	#a6001a", "	#633517"];
 
     document.addEventListener("keydown", keyDownHandler, false);
     document.addEventListener("keyup", keyUpHandler, false);
@@ -114,7 +115,8 @@
                     bricks[c][r].y = brickY;
                     ctx.beginPath();
                     ctx.rect(brickX, brickY, brickWidth, brickHeight);
-                    ctx.fillStyle = "#0095DD";
+                    // ctx.fillStyle = "#0095DD";
+		    ctx.fillStyle =colors[c];
                     ctx.fill();
                     ctx.closePath();
                 }
@@ -174,7 +176,8 @@
                     setTimeout (document.location.reload(), 2000);
                 }
                 else {
-                	paddleX = (canvas.width-paddleWidth)/2;
+		    // reset paddle and ball after a miss	
+                    paddleX = (canvas.width-paddleWidth)/2;
                     x = canvas.width/2;
                     y  = canvas.height-paddleHeight + 1;
                   //y = canvas.height-30;
