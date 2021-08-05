@@ -12,6 +12,19 @@ const height = canvas.height = window.innerHeight;
 const img = new Image();
 img.src="../assets/images/NixPic.jpg";
 
+dDown = false;
+
+
+// key down event
+document.addEventListener("keydown", keyDownHandler, false);
+function keyDownHandler(e) {
+    if(e.which  == 68) {
+      //https://keycode.info/
+      // turn on or off
+        dDown = !dDown;
+    }
+   
+
 
 // function to generate random number
 
@@ -111,7 +124,9 @@ while(balls.length < 50) {
 function loop() {
   ctx.fillStyle = 'rgba(0,0,0,0.25)';
   ctx.fillRect(0,0,width,height);
-  ctx.drawImage(img, 0,0);
+  if (dDown = true){
+    ctx.drawImage(img, 0,0);
+  }
   
   
   for(let i = 0; i < balls.length; i++) {
