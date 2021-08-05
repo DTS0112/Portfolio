@@ -82,7 +82,7 @@
                         dy = dy + .4;
                         if(score == brickRowCount*brickColumnCount) {
                             //alert("YOU WIN, CONGRATS!");
-                            document.location.reload();
+                            setTimeout (document.location.reload(), 2000);
                         }
                     }
                 }
@@ -170,7 +170,7 @@
             else {
                 lives--;
                 if(!lives) {
-                    alert("GAME OVER");
+                    //alert("GAME OVER");
                     setTimeout (document.location.reload(), 2000);
                 }
                 else {
