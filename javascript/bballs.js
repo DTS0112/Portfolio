@@ -125,7 +125,7 @@ function loop() {
   ctx.fillStyle = 'rgba(0,0,0,0.25)';
   ctx.fillRect(0,0,width,height);
   if (dDown = true){
-    ctx.drawImage(img, 0,0);
+    ctx.drawImage(img, 0,0,width,height);
   }
   
   
