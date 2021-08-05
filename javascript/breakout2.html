@@ -122,7 +122,7 @@
                 }
                 else {
                 
-                		var brickX = (r*(brickWidth+brickPadding))+brickOffsetLeft;
+                    var brickX = (r*(brickWidth+brickPadding))+brickOffsetLeft;
                     var brickY = (c*(brickHeight+brickPadding))+brickOffsetTop;
                     bricks[c][r].x = brickX;
                     bricks[c][r].y = brickY;
@@ -131,9 +131,9 @@
                     //ctx.fillStyle = "#0095DD";
                     //ctx.fill();
                     //ctx.closePath();
-                		ctx.textAlign = "top";
+                    ctx.textAlign = "top";
                     ctx.strokeText("c" + c + " r" + r,brickX , brickY + brickHeight );
-                    ctx.strokeStyle = colors[c];
+                    ctx.strokeStyle = colors[r];
                     ctx.fill();
                     }
             }
