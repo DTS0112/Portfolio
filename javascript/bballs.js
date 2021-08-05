@@ -23,7 +23,7 @@ function keyDownHandler(e) {
       // turn on or off
         dDown = !dDown;
     }
-   
+}
 
 
 // function to generate random number
@@ -124,7 +124,7 @@ while(balls.length < 50) {
 function loop() {
   ctx.fillStyle = 'rgba(0,0,0,0.25)';
   ctx.fillRect(0,0,width,height);
-  if (dDown = true){
+  if (dDown == true){
     ctx.drawImage(img, 0,0,width,height);
   }
   
