@@ -42,6 +42,11 @@
     
     // https://www.w3schools.com/colors/colors_fs595.asp	
     const colors = ["#ffab00", "#ee9600", "#e06000", "#a6001a", "#633517"];
+    	
+    function pause(){
+	    document.location.reload();
+    }
+	
 	
     document.addEventListener("keydown", keyDownHandler, false);
     document.addEventListener("keyup", keyUpHandler, false);
@@ -173,13 +178,16 @@
                 lives--;
                 if(!lives) {
                     //alert("GAME OVER");
-                     setTimeout(function(){ document.location.reload(); }, 3000);
+                     setTimeout(pause(), 3000);
                 }
                 else {
 		    // reset paddle and ball after a miss	
                     paddleX = (canvas.width-paddleWidth)/2;
                     x = canvas.width/2;
                     y  = canvas.height-paddleHeight + 1;
+		    dx = 2;
+                    dy = 2;
+			
                   //y = canvas.height-30;
                     //dx = 2;
                     //dy = -2;
