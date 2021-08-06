@@ -42,10 +42,6 @@
     
     // https://www.w3schools.com/colors/colors_fs595.asp	
     const colors = ["#ffab00", "#ee9600", "#e06000", "#a6001a", "#633517"];
-
-    function pause() {
-	document.location.reload();
-    }
 	
     document.addEventListener("keydown", keyDownHandler, false);
     document.addEventListener("keyup", keyUpHandler, false);
@@ -87,7 +83,8 @@
                         dy = dy + .4;
                         if(score == brickRowCount*brickColumnCount) {
                             //alert("YOU WIN, CONGRATS!");
-                            setTimeout (pause(), 2000);
+			     setTimeout(function(){ document.location.reload(); }, 3000);
+                           
                         }
                     }
                 }
@@ -176,7 +173,7 @@
                 lives--;
                 if(!lives) {
                     //alert("GAME OVER");
-                    setTimeout (document.location.reload(), 2000);
+                     setTimeout(function(){ document.location.reload(); }, 3000);
                 }
                 else {
 		    // reset paddle and ball after a miss	
