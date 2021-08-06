@@ -126,17 +126,16 @@
                     var brickY = (c*(brickHeight+brickPadding))+brickOffsetTop;
                     bricks[c][r].x = brickX;
                     bricks[c][r].y = brickY;
-                    //ctx.beginPath();
-                    //ctx.rect(brickX, brickY, brickWidth, brickHeight);
-                    //ctx.fillStyle = "#0095DD";
-                    //ctx.fill();
-                    //ctx.closePath();
-		   
-                    ctx.textAlign = "top";
-		    ctx.strokeStyle = colors[r];
-                    ctx.strokeText("c" + c + " r" + r,brickX , brickY + brickHeight );
                     
-                    //ctx.fill();
+		    ctx.textAlign = "top";
+		     // the strokeStyle code below works	
+		     //ctx.strokeStyle = colors[r];
+		     //ctx.strokeText("c" + c + " r" + r,brickX , brickY + brickHeight );
+                    
+		    ctx.fillStyle = colors[r];                    
+                    ctx.fillText("c" + c + " r" + r,brickX , brickY + brickHeight );
+                    
+			//ctx.fill();
 		    
                     }
             }
