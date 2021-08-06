@@ -43,6 +43,10 @@
     // https://www.w3schools.com/colors/colors_fs595.asp	
     const colors = ["#ffab00", "#ee9600", "#e06000", "#a6001a", "#633517"];
 
+    function pause() {
+	document.location.reload();
+    }
+	
     document.addEventListener("keydown", keyDownHandler, false);
     document.addEventListener("keyup", keyUpHandler, false);
     document.addEventListener("mousemove", mouseMoveHandler, false);
@@ -83,7 +87,7 @@
                         dy = dy + .4;
                         if(score == brickRowCount*brickColumnCount) {
                             //alert("YOU WIN, CONGRATS!");
-                            setTimeout (document.location.reload(), 2000);
+                            setTimeout (pause(), 2000);
                         }
                     }
                 }
