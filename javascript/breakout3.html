@@ -138,8 +138,9 @@
 		     //ctx.strokeStyle = colors[r];
 		     //ctx.strokeText("c" + c + " r" + r,brickX , brickY + brickHeight );
                     
-		    ctx.fillStyle = colors[c];                    
-                    ctx.fillText("c" + c + " r" + r,brickX , brickY + brickHeight );
+		    ctx.fillStyle = colors[c];    
+	            // Changed the row and column print out to appear more accurate.
+                    ctx.fillText("R" + c + " C" + r,brickX , brickY + brickHeight );
                     }
             }
         }
