@@ -36,7 +36,11 @@ tr:nth-child(even) {
 <p id="demo"></p>
 <script>
 
-  // added ,mode: 'no-cors'   on 11/21/22 to try to get this to work. Based on console message ctrl+shift+i / console
+  // added the following:    ,{mode: 'no-cors'}     on 11/21/22 to try to get this to work. Based on console message ctrl+shift+i / console
+  // that worked... but now status of 0
+  // removed /beta from below
+  //https://data.cms.gov/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data
+  
 fetch('https://data.cms.gov/beta/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data',{mode: 'no-cors'})
   .then(
     function(response) {
