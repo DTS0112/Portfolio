@@ -41,7 +41,10 @@ tr:nth-child(even) {
   // removed /beta from below
   //https://data.cms.gov/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data
   
-fetch('https://data.cms.gov/beta/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data',{mode: 'no-cors'})
+  // to learn more
+  // https://data.cms.gov/api-docs
+  
+fetch('https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de7515/data',{mode: 'no-cors'})
   .then(
     function(response) {
       if (response.status !== 200) {
