@@ -35,7 +35,7 @@ tr:nth-child(even) {
   <p id="blurb">Please be patient this may take a few seconds.
     The table below is fetched dynamically from the Centers for Medicare and Medicaid Services (CMS) Data API using JavaScript. 
     It's a list of providers in PA with the last name of...</p>
-  <p id="jcount"></p>  
+ 
   <p id="demo"></p>
 
 <script>
@@ -108,7 +108,7 @@ fetch('https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de
                 td = '';
                 txt += "</table>"
                 document.getElementById("demo").innerHTML += txt;
-                document.getElementById("jcount").innerHTML = count;
+                
                 break;
           }
           
