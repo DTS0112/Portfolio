@@ -91,7 +91,7 @@ fetch('https://data.cms.gov/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72
        // if first row, add headers   
        if (idx == 0){ txt +=  "<table><tr>" + th + "</tr>";   }   
            // too many row break page. limit 100
-       if (idx < 100) {
+       if (idx < Object.keys(jsonData).length) {
                txt  +=  "<tr>" + td + "</tr>";  
                td = '';
             } else {
