@@ -34,19 +34,22 @@ tr:nth-child(even) {
   <h2> CMS Provider Sample </h2>
   <p id="blurb">The table below is fetched dynamically from the
     Centers for Medicare and Medicaid Services (CMS) Data API
-    using JavaScript. Please be patient this may take a few seconds. </p>
+    using JavaScript.
     
-   <p id="blurb"> It's a list of providers in PA with the last name of...</p>
+    It represents "Information on a point in time snapshot of enrollment
+    level data for providers actively enrolled in Medicare." The data is updated quarterly. Please be patient this may take a few seconds. </p>
+    
+   <p id="blurb"> For the purposes of this portfolio, I filtered the reusults to only show Medicare providers in PA with my last name.</p>
  
   <p id="demo"></p>
 
 <script>
 
-  // This data call has not been working since about 2 weeks after I wrote it. Solution? I was beta when I wrote it
-  // but was quickly no longer beta. I removed the beta part of th url and it works again.
+  // This data call stopped been working about 2 weeks after I wrote it. Reason? The API was in beta when I wrote this page,
+  // but was quickly no longer beta. I removed the beta part of the url and it works again.
   // removed /beta from below
   //https://data.cms.gov/beta/data-api/v1/dataset/02c0692d-e2d9-4714-80c7-a1d16d72ec66/data
-  // that was the problem
+  
   
   // to learn more
   // https://data.cms.gov/api-docs
