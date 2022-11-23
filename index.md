@@ -54,8 +54,8 @@ After ECMAScript 6 came out, I spent a few months reacquainting myself with the 
 
 **JavaScript Examples**   
 **[Simple API](assets/fetch1.html)** (Note: This API call worked like a charm the first few days, and then stopped working almost immediately. Turns out I was developing on the cutting edge of Medicare technology. The current API's were in beta when I coded the calls to them. Medicare went live soon after and changed all the url's. If they stop working again, try hitting ctrl + shift + i, and then find the console tab to see the error messages.)  
-[Balls <img src='assets/images/balls_200w.png' width="5%">](index2.html)  
-[Paddles <img src='assets/images/breakout_sunset.png' width="5%">](javascript/breakout2.html)  
+[<img src='assets/images/balls_200w.png' width="5%"> Balls](index2.html)  
+[<img src='assets/images/breakout_sunset.png' width="5%"> Paddles](javascript/breakout2.html)  
 
 
 # Markdown  <a id="Markdown"></a>
