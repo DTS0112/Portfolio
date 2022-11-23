@@ -68,6 +68,7 @@ fetch(https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de7
       var txt = '';
       var td = '';
       var th ='';   
+      var JDlen =   Object.keys(jsonData).length-1;
       // VALUABLE METADATA
       console.log(Object.keys(jsonData[0]));
        // row   
@@ -91,7 +92,7 @@ fetch(https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de7
        // if first row, add headers   
        if (idx == 0){ txt +=  "<table><tr>" + th + "</tr>";   }   
            // too many row break page. limit 100
-       if (idx < Object.keys(jsonData).length) {
+       if (idx < JDlen) {
                txt  +=  "<tr>" + td + "</tr>";  
                td = '';
             } else {
