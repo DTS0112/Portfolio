@@ -32,7 +32,9 @@ tr:nth-child(even) {
     
     
   <h2> CMS Provider Sample </h2>
-  <p id="blurb">Please be patient this may take a few seconds. The table below is fetched dynamically from a CMS table using a JavaSCript. It's a list of providers in Pittsburgh with the last name of...</p>
+  <p id="blurb">Please be patient this may take a few seconds.
+    The table below is fetched dynamically from a CMS table using a JavaSCript. 
+    It's a list of providers in PA with the last name of...</p>
 <p id="demo"></p>
 <script>
 
@@ -68,7 +70,7 @@ fetch('https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de
       var txt = '';
       var td = '';
       var th ='';   
-      var count =   Object.keys(jsonData).length -1;
+      var count =   Object.keys(jsonData).length ;
       // VALUABLE METADATA
       console.log(Object.keys(jsonData[0]));
        // row   
