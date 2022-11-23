@@ -72,40 +72,45 @@ fetch('https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de
       var txt = '';
       var td = '';
       var th ='';   
-      var count =   Object.keys(jsonData).length  ;
+      var count =   Object.keys(jsonData).length -1  ;
       // VALUABLE METADATA
       console.log(Object.keys(jsonData[0]));
-       // row   
+      
+      // row   (outer loop)
       for(var i in jsonData){
          var key = i;
          var val = jsonData[i];
-         // field in row
-        for(var j in val){
+         
+         // field in row (inner loop)
+         for(var j in val){
             var sub_key = j;
             var sub_val = val[j];
            
-            
+            // Load table header into th 
             if (idx == 0){
                 th += "<th>" + sub_key + "</th>";      
             } 
            
             td += "<td>" + sub_val + "</td>"; 
             
-        } // end inner for loop
-          
-       // if first row, add headers   
-       if (idx == 0){ txt +=  "<table><tr>" + th + "</tr>";   }   
+          } // end inner for loop
+           
+        
+          // if first row, add headers   
+          if (idx == 0){ txt +=  "<table><tr>" + th + "</tr>";   }   
        
-       // too many rows break the page.
-       if (idx < count) {
+          // too many rows break the page.
+          if (idx < count) {
                txt  +=  "<tr>" + td + "</tr>";  
                td = '';
-            } else {
+          } else {
+                txt  +=  "<tr>" + td + "</tr>";  
+                td = '';
                 txt += "</table>"
                 document.getElementById("demo").innerHTML += txt;
                 document.getElementById("jcount").innerHTML = count;
                 break;
-            }
+          }
           
           
       idx += 1;    
