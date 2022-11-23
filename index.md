@@ -54,6 +54,7 @@ After ECMAScript 6 came out, I spent a few months reacquainting myself with the 
 
 **JavaScript Examples**   
 **[Simple API](assets/fetch1.html)** (Note: This API call worked like a charm the first few days, and then stopped working almost immediately. Turns out I was developing on the cutting edge of Medicare technology. The current API's were in beta when I coded the calls to them. The new data API's went live soon after and they changed all the url's. If they stop working again, try hitting ctrl + shift + i, and then find the console tab to see the error messages.)  
+**[Code reuse](assets/autocomplete.html)** This is a basic page that shows the ability to use and adapt other people's code. I was trying to see if I could use this as the basis for a project I was considering. 
 [<img src='assets/images/balls_200w.png' width="5%"> Balls](index2.html)  
 [<img src='assets/images/breakout_sunset.png' width="5%"> Paddles](javascript/breakout2.html)  
 
