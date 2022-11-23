@@ -53,7 +53,10 @@ These are plots of Pittsburgh Census blocks and geographic codes from a neighbor
 After ECMAScript 6 came out, I spent a few months reacquainting myself with the changes to JavaScript. I began reading [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke. This book is excellent and very hard. At the time (early 2017) the third edition was still in development and it felt like the cutting edge. To get a different perspective (and immediate gratification), I started reading some of the Mozilla Developers Network (MDN) [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript) and taking some of the cool [tutorials](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice) which I plan to revisit for this portfolio.  
 
 **JavaScript Examples**   
-**[Simple API](assets/fetch.html)** (Note: This API worked like a charm the first few days, and then somehow it went over the download limit (maybe). Not sure if this is because I never signed up for the service officially, or because this API points to a beta database, and the developers are making changes. Either way, at some point, I'll put the console logs on the site so you can enjoy the error messages. Until then... try hitting ctrl + shift + I, and then find the console tab to see the messages.)
+**[Simple API](assets/fetch1.html)** (Note: This API call worked like a charm the first few days, and then stopped working almost immediately. Turns out I was developing on the cutting edge of Medicare technology. The current API's were in beta when I coded the calls to them. Medicare went live soon after and changed all the url's. If they stop working again, try hitting ctrl + shift + i, and then find the console tab to see the error messages.)
+[Balls <img src='assets/images/balls_200w.png' width="10%">](index2.html)
+[Paddles <img src='assets/images/breakout_sunset.png' width="10%">](javascript/breakout2.html)  
+
 
 # Markdown  <a id="Markdown"></a>
 I'd never heard of the Markdown language before exploring GitHub. It's easy to learn and use, but was frustrating early-on because of sparse options compared to HTML. Since then it's become clear that limited control keeps documents consistent and clean. It's hard to make a Markdown document look bad, but I'm still trying :).
