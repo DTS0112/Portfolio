@@ -36,6 +36,7 @@ tr:nth-child(even) {
     The table below is fetched dynamically from the Centers for Medicare and Medicaid Services (CMS) Data API using JavaScript. 
     It's a list of providers in PA with the last name of...</p>
 <p id="demo"></p>
+<p id="jcount"></p>  
 <script>
 
   // This data call has not been working since about 2 weeks after I wrote it. Solution? I was beta when I wrote it
@@ -101,6 +102,7 @@ fetch('https://data.cms.gov/data-api/v1/dataset/2457ea29-fc82-48b0-86ec-3b0755de
             } else {
                 txt += "</table>"
                 document.getElementById("demo").innerHTML += txt;
+                document.getElementById("jcount").innerHTML = count;
                 break;
             }
           
